@@ -1,4 +1,4 @@
-= Gosu
+= Gosu X
 
 https://boardgamegeek.com/boardgame/368119/gosu-x
 
@@ -8,40 +8,40 @@ A round consists in three phases.
 == Actions
 Alternate playing one action until a player passes, then the remaining player takes ≤ 3 actions more.
 
-- Play: 
--- From left to right
--- Troop: costs 2 iff no same-clan Troop and some distinct-clan Troop; 0 otherwise
--- Hero or Immortal: requires some same-clan recruit of each inferior level; requires at least as many recruits on each inferior levels than number of recruits on the level played
-- Shift:
--- with non identical name
--- activation tokens on the shifted card go to the used player zone
--- apply effect
-- Activate: one token for one card; two tokens for three cards; or one token to activate a card effect.
-- Pass: only if no activation token left
+* Play: 
+** From left to right
+** Troop: costs 2 iff no same-clan Troop and some distinct-clan Troop; 0 otherwise
+** Hero or Immortal: requires some same-clan recruit of each inferior level; requires at least as many recruits on each inferior levels than number of recruits on the level played
+* Shift:
+** with non identical name
+** activation tokens on the shifted card go to the used player zone
+** apply effect
+* Activate: one token for one card; two tokens for three cards; or one token to activate a card effect.
+* Pass: only if no activation token left
 
 == Great Battle
-- Military strength: Wondrous token counts for half point, Veterans count double if tokenized
-- Each highest military take a Supremacy token
-- If someone has two, the game ends.
+* Military strength: Wondrous token counts for half point, Veterans count double if tokenized
+* Each highest military take a Supremacy token
+* If someone has two, the game ends.
 
 == Song for the dead
-- Release all, no effects
-- Sacrifice (discard open card) half rounded up army cards, battle winner first.
-- Fill hand to seven cards
-- Reclaim activation tokens
-- Return Wondrous
-- Loser of the great battle starts the next round
+* Release all, no effects
+* Sacrifice (discard open card) half rounded up army cards, battle winner first.
+* Fill hand to seven cards
+* Reclaim activation tokens
+* Return Wondrous
+* Loser of the great battle starts the next round
 
 == Glossary
-- In play: in the army
-- Recruit: in the army
-- Face-up: non-captured recruit
-- Same-clan, distinct-clan: implies face-up
-- Release: does not trigger effect
-- Open: recruit with no recruit on the right and above
-- Capture: not necessarily open
+* In play: in the army
+* Recruit: in the army
+* Face-up: non-captured recruit
+* Same-clan, distinct-clan: implies face-up
+* Release: does not trigger effect
+* Open: recruit with no recruit on the right and above
+* Capture: not necessarily open
 
 == FAQ
-- Max one extra (additional) turn (even in case of echo); no extra turn when opponent has passed
+* Max one extra (additional) turn (even in case of echo); no extra turn when opponent has passed
 
 
