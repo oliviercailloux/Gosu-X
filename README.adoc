@@ -16,7 +16,7 @@ Alternate playing one action until a player passes, then the remaining player ta
 ** with non identical name
 ** activation tokens on the shifted card go to the used player zone
 ** apply effect
-* Activate: one token for one card; two tokens for three cards; or one token to activate a card effect.
+* Activate: one token for one card; two tokens for three cards; or one token to activate a card effect
 * Pass: only if no activation token left
 
 == Great Battle
@@ -26,11 +26,11 @@ Alternate playing one action until a player passes, then the remaining player ta
 
 == Song for the dead
 * Release all, no effects
-* Sacrifice (discard open card) half rounded up army cards, battle winner first.
+* Sacrifice half recruits rounded up, Great Battle winner first
 * Fill hand to seven cards
 * Reclaim activation tokens
 * Return Wondrous
-* Loser of the great battle starts the next round
+* Great Battle loser starts the next round
 
 == Glossary
 * In play: in the army
@@ -40,8 +40,7 @@ Alternate playing one action until a player passes, then the remaining player ta
 * Release: does not trigger effect
 * Open: recruit with no recruit on the right and above
 * Capture: not necessarily open
+* Sacrifice: discard open card
 
 == FAQ
 * Max one extra (additional) turn (even in case of echo); no extra turn when opponent has passed
-
-
