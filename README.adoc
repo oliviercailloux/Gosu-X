@@ -1,6 +1,7 @@
 = Gosu X
 
-https://boardgamegeek.com/boardgame/368119/gosu-x
+- https://boardgamegeek.com/boardgame/368119/gosu-x
+- https://sorryweare.fr/en/game/gosu-x-en/
 
 == Round
 A round consists in three phases.
@@ -10,11 +11,11 @@ Alternate playing one action until a player passes, then the remaining player ta
 
 * Play: 
 ** From left to right
-** Troop: costs 0 iff some same-clan Troop or no distinct-clan Troop; 2 otherwise
+** Troop: costs 0 iff some same-clan Troop or no distinct-clan Troop; 2 otherwise, minus 1 if spend Wondrous
 ** Hero or Immortal: requires some same-clan recruit of each inferior level; requires at least as many recruits on each inferior levels than number of recruits on the level played
 * Shift:
 ** with non identical name
-** activation tokens on the shifted card go to the used player zone
+** activation tokens on the shifted card each reduce cost by one and go to the used player zone
 ** apply effect
 * Activate: one token for one card; two tokens for three cards; or one token to activate a card effect
 * Pass: only if no activation token left
