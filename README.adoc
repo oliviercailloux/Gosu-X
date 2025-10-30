@@ -44,4 +44,5 @@ Alternate playing one action until a player passes, then the remaining player ta
 
 == FAQ
 * Max one extra (additional) turn (even in case of echo); no extra turn when opponent has passed
+* The card that mentions an extra turn should mention drawing a card before taking an extra turn
 * To be determined: what means “identical name”?
